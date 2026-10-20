@@ -27,8 +27,8 @@ penjualan Superstore (2014-2017, 9.994 transaksi).
 4. Fokuskan promosi pada Copiers, Phones, dan Accessories.
 
 ## Visualisasi
-![Profit per Sub-Kategori](images/profit_subkategori.png)
-![Profit per Region dan State](images/region_state.png)
+![Profit per Sub-Kategori](images/Profit per Region dan State.png)
+![Profit per Region dan State](images/Profit per Sub-Kategori.png)
 
 ## Tools
 Python (pandas, matplotlib), Google Colab
