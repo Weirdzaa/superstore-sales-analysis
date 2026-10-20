@@ -33,10 +33,6 @@ penjualan Superstore (2014-2017, 9.994 transaksi).
 ## Tools
 Python (pandas, matplotlib), Google Colab
 
-## Cara Menjalankan
-Buka notebook di Google Colab, upload `Superstore.csv`, lalu
-jalankan semua sel.
-
 ## Catatan
 Dataset: Superstore (Kaggle). Korelasi bukan berarti sebab-akibat;
 diskon adalah faktor utama, tetapi faktor lain seperti biaya produk
